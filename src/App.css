@@ -1,0 +1,12 @@
+/* src/App.css */
+.App {
+  font-family: Arial, sans-serif;
+  
+}
+.Blog-container{
+  display: flex;
+  /* width: 90%; */
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 0 10px;
+}
